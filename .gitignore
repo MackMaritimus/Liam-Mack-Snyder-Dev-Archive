@@ -1,0 +1,16 @@
+# Java
+*.class
+bin/
+
+# Python
+__pycache__/
+*.pyc
+
+# React Native / Node
+node_modules/
+.expo/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
