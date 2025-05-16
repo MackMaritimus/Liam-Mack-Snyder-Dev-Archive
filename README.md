@@ -27,8 +27,8 @@ The following tools and platforms were used in the creation of the diagrams, cod
 - **Python** - Jupyter notebook files and use of NumPy, Pandas, and Matplotlib for data analysis, cleaning, and visualization
 
 ## 🌐 Personal Website (WIP)
-I'm also currently developing a personal website, deployed on Vercel, to gain experience with new frameworks, frontend, deployment, Git, and full-stack dev work, as well as provide 
-myself with a one-stop location to showcase both artwork and coding I've done. The GitHub repo this site is integrated with and the site itself are linked below.
+I'm also currently developing a personal website, deployed on Vercel, to gain experience with new frameworks, web development, deployment, CLI Git, and full-stack dev work, as well as provide 
+myself with a one-stop location to showcase both artwork and coding I've done. The GitHub repo this site is integrated with, and the site itself, are linked below.
 <br/><br/>
 
 **Website: [liammacksnyder.vercel.app](https://liammacksnyder.vercel.app)**
