@@ -15,7 +15,7 @@ The following tools and platforms were used in the creation of the diagrams, cod
 - VS Code
 - Snowflake
 - Draw.io
-- MySQl Workbench
+- MySQL Workbench
 - ExpoGo
 - Eclipse IDE
 - Jupyter Notebook
